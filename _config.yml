@@ -75,7 +75,7 @@ author:
 
 footer:
   links:
-      label: "Mastodon"
+    - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://lynham.xyz/@Chris"
     - label: "Twitter"
