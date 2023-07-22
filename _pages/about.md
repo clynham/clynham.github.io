@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Chris Lynham is a British IT professional living in the South East of the UK. He has 15+ years experience working in the local government sector, usually taking out-dated legacy software that services rely on and forcing it kicking and screaming into modern infrastructures as a cloud engineer
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+When not problem solving or architecting IT solutions he can be found occasionally running as a beginners run lead for [Redway Runners][redway-runners], following the NFL or expressing opinions as a cheeseburger connoisseur.
+
+[redway runners]: https://www.redwayrunners.com
