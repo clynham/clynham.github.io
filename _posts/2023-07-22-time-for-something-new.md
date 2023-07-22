@@ -1,7 +1,5 @@
 ---
 title: "Time for Something New"
-date: 2023-07-22T18:00:00
-last_modified_at: 2023-07-22T18:05:00
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
