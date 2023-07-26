@@ -5,7 +5,7 @@ categories:
 tags:
   - Films
   - Reviews
-link: https://boxd.it/l7zS
+link: https://letterboxd.com/clynham/film/mission-impossible-dead-reckoning-part-one/
 ---
 
 Review will contain spoilers
