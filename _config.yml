@@ -62,7 +62,7 @@ author:
       url: "https://www.chrislynham.com"
       label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://lynham.xyz/@Chris"
+      url: "https://mastodon.social/@ChrisLynham"
     - label: "X"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ChrisLynham"
@@ -77,7 +77,7 @@ footer:
   links:
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://lynham.xyz/@Chris"
+      url: "https://mastodon.social/@ChrisLynham"
     - label: "X"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/ChrisLynham"
