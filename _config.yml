@@ -10,8 +10,7 @@ subtitle: "UK Based Cloud Engineer"
 url: "https://www.chrislynham.com"
 email: chris@chrislynham.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website for Chris Lynham. A DevOps / Cloud Engineer from the UK
-twitter_username: ChrisLynham
+  Personal Website for Chris Lynham. A DevOps / Cloud Engineer from the UK
 github_username: clynham
 minimal_mistakes_skin: dark
 search: true
@@ -63,9 +62,9 @@ author:
       label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://mastodon.social/@ChrisLynham"
-    - label: "X"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ChrisLynham"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/chrislynham.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/clynham"
@@ -78,9 +77,9 @@ footer:
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://mastodon.social/@ChrisLynham"
-    - label: "X"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ChrisLynham"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/chrislynham.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/clynham"
