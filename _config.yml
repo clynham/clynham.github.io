@@ -53,7 +53,7 @@ plugins:
 author:
   name   : "Chris Lynham"
   avatar : "/assets/images/chris.jpeg"
-  bio    : "DevOps engineer hanging out in the UK"
+  bio    : "Cloud engineer hanging out in the UK"
   location: "Milton Keynes, UK"
   links:
     - label: "Website"
