@@ -52,8 +52,8 @@ plugins:
 
 author:
   name   : "Chris Lynham"
-  avatar : "/assets/images/chris.jpg"
-  bio    : "DevOps engineer hanging out in the UK"
+  avatar : "/assets/images/chris.jpeg"
+  bio    : "Cloud engineer hanging out in the UK"
   location: "Milton Keynes, UK"
   links:
     - label: "Website"
@@ -71,6 +71,9 @@ author:
     - label: "Threads"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.threads.net/@chrislynham"
+    - label: "PixelFed"
+      icon: "fab fa-fw fa-pixelfed"
+      url: "https://pixelfed.social/ChrisLynham"
 
 footer:
   links:
@@ -86,6 +89,9 @@ footer:
     - label: "Threads"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.threads.net/@chrislynham"
+    - label: "PixelFed"
+      icon: "fab fa-fw fa-pixelfed"
+      url: "https://pixelfed.social/ChrisLynham"
 
 defaults:
   # _posts
