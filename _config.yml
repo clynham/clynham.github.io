@@ -1,0 +1,126 @@
+# Jekyll Global Settings
+#
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}
+
+title: Chris Lynham
+subtitle: "UK Based Cloud Engineer"
+url: "https://www.chrislynham.com"
+email: chris@chrislynham.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Personal Website for Chris Lynham. A DevOps / Cloud Engineer from the UK
+github_username: clynham
+minimal_mistakes_skin: dark
+search: true
+locale: "en-GB"
+title_separator: "|"
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: Europe/London # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "Chris Lynham"
+  avatar : "/assets/images/chris.jpeg"
+  bio    : "Cloud engineer hanging out in the UK"
+  location: "Milton Keynes, UK"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.chrislynham.com"
+      label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodon.social/@ChrisLynham"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/chrislynham.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/clynham"
+    - label: "Threads"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.threads.net/@chrislynham"
+    - label: "PixelFed"
+      icon: "fab fa-fw fa-pixelfed"
+      url: "https://pixelfed.social/ChrisLynham"
+
+footer:
+  links:
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodon.social/@ChrisLynham"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/chrislynham.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/clynham"
+    - label: "Threads"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.threads.net/@chrislynham"
+    - label: "PixelFed"
+      icon: "fab fa-fw fa-pixelfed"
+      url: "https://pixelfed.social/ChrisLynham"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      show_date: true
+      read_time: true
+      comments: false
+      share: true
+      related: false
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+#Search
+  lunr:
+    search_within_pages: true
