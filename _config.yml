@@ -77,6 +77,7 @@ author:
       url: "https://pixelfed.social/ChrisLynham"
 
 footer:
+since: "2025"
   links:
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
