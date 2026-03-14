@@ -55,6 +55,7 @@ author:
   avatar : "/assets/images/chris.jpeg"
   bio    : "Cloud engineer hanging out in the UK"
   location: "Milton Keynes, UK"
+  fediverse: "@ChrisLynham@mastodon.social"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
